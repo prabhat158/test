@@ -1,0 +1,3 @@
+- name: PMD Analyser
+  uses: synergy-au/pmd-analyser-action@v2.1
+
